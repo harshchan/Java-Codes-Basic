@@ -29,7 +29,7 @@ public class fibAndFact {
     }
 
     static void factorial()  {
-        int fact=1,n = 1;
+        int fact=1,n=1;
         BufferedReader bfinp=new BufferedReader(new InputStreamReader(System.in));
         System.out.println("Enter Number to find factorial");
 
